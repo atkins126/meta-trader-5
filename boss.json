@@ -1,0 +1,9 @@
+{
+	"name": "meta-trader-5",
+	"description": "MetaTrader 5 socket connection for Delphi",
+	"version": "1.0.0",
+	"homepage": "https://github.com/CarlosHe/meta-trader-5",
+	"mainsrc": "./src/",
+	"projects": [],
+	"dependencies": {}
+}
